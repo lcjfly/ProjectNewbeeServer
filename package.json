@@ -1,0 +1,13 @@
+{
+  "name": "ProjectNewbeeServer",
+  "description": "a RESTful API server",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app.js",
+    "test": ""
+  },
+  "dependencies": {
+    "express": "4.x",
+    "redis": "2.6.0-2"
+  }
+}
